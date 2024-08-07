@@ -1,0 +1,4 @@
+- http://molecularmodelingbasics.blogspot.com/
+- https://www.themissingassets.com/
+- https://molecule-icon-generator.streamlit.app/
+- https://www.litsolutions.org/
