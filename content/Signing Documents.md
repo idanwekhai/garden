@@ -8,6 +8,6 @@ Document Giver: *Hands me a document*
 
 Me: Is this trying to say that you guys are allowed to charge me $20k if something goes wrong?
 
-DG: *Goes on the yap about the fine details of the document*
+DG: *Goes on to yap about the fine details of the document*
 
 Of course, this is not a good strategy for every case where you have to sign something, but It's been helpful to me in some cases.
