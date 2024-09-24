@@ -1,5 +1,6 @@
 ---
 title: Welcome to Kelvin's digital garden
+date: 2024-08-09
 ---
 
 Hi There,

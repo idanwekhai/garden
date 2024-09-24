@@ -1,3 +1,7 @@
+---
+title: Signing Documents
+date: 2024-09-02
+---
 Recently, I've been in the positions where I have to sign documents that actually require me to read them. Just to save time, I use a *trick* to lessen my reading-burden.
 
 I ask a rather playful question to the document giver and make them explain the document to me. I go for the worst case scenario of how the agreement could be used against me if I fail the knowingly or unknowingly go against the terms of the document.
