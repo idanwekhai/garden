@@ -1,6 +1,6 @@
 ---
 title: Faith
-date: 2024-09-23
+date: 2022-03-23
 tags:
   - musing
 ---

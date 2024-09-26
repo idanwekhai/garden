@@ -1,6 +1,6 @@
 ---
 title: Name on the wall
-date: 2024-09-25
+date: 2022-12-23
 tags:
   - musing
 ---
