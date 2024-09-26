@@ -1,6 +1,8 @@
 ---
 title: Faith
 date: 2024-09-23
+tags:
+  - musing
 ---
 When I stayed in Abuja for a long time during the pandemic, it was compulsory to go to church after the lockdown laws were relaxed.
 
