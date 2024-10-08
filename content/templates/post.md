@@ -1,7 +1,6 @@
 ---
-title:
+title: 
 date: 
-tags:
-  - 
-  -
+tags: 
+author: Kelvin Paschal
 ---

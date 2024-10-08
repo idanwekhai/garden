@@ -2,6 +2,7 @@
 title: Names I like
 tags:
   - curations
+author: Kelvin Paschal
 ---
 Amina 
 Ugonna  

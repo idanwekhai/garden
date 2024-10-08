@@ -1,6 +1,7 @@
 ---
 title: Welcome to Kelvin's digital garden
 date: 2024-08-09
+author: Kelvin Paschal
 ---
 Hi There,
 
@@ -15,6 +16,11 @@ I've been looking for a place to organize a collection of random writings, thoug
 > A digital garden is not a file cabinet, nor is it fully an index. A digital garden is less so a well-kempt plot for farming and more a mess of entangled growth. It is a network of interconnected ideas and thoughts, clustered by how they are associated with each other.
 
 I realized that this term accurately captures what I want, which is why I've decided to borrow it and start my garden. This digital garden will serve as a repository that will grow and self-organize itself with time. There will be no subscription forms, so I don't feel pressured to cater to an audience. I'm excited to see how this will grow and evolve.
+
+You can find writings and curations in this garden here:
+#musing 
+#curations 
+#affirmation 
 
 Kelvin
 

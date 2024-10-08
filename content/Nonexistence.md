@@ -3,6 +3,7 @@ title: Nonexistence
 date: 2021-03-05
 tags:
   - musing
+author: Kelvin Paschal
 ---
 You didn't ask to exist, but now you exist and then you can't stand the thought of non-existence.  
   

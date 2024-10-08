@@ -3,6 +3,7 @@ title: You deserve
 date: 2021-07-10
 tags:
   - affirmation
+author: Kelvin Paschal
 ---
 You deserve kindness.
 

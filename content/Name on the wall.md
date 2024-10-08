@@ -3,6 +3,7 @@ title: Name on the wall
 date: 2022-12-23
 tags:
   - musing
+author: Kelvin Paschal
 ---
 I'm thinking about all the public toilets I've ever been in and how most of them had little scribblings on the wall of people's names. Some were an effort to be remembered, "Emeka was here" while some were a way to tell what they deeply felt, such as "I love Julia".  
   

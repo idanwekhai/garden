@@ -1,6 +1,7 @@
 ---
 title: Signing Documents
 date: 2024-09-02
+author: Kelvin Paschal
 ---
 Recently, I've been in the positions where I have to sign documents that actually require me to read them. Just to save time, I use a *trick* to lessen my reading-burden.
 

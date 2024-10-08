@@ -2,6 +2,7 @@
 title: Personal Blogs and Websites I like
 tags:
   - curations
+author: Kelvin Paschal
 ---
 
 - **Femi Oyebode**
@@ -17,6 +18,8 @@ tags:
 - **David McCoy**
 	- https://themccoyman.medium.com/
 - **Eric Jang**
-	- https://blog.evjang.com/
+	- https://evjang.com/
 - **Jason Toy**
 	- https://blog.jtoy.net/
+- **Alex Kladov**
+	- https://matklad.github.io/
