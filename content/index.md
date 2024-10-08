@@ -18,9 +18,9 @@ I've been looking for a place to organize a collection of random writings, thoug
 I realized that this term accurately captures what I want, which is why I've decided to borrow it and start my garden. This digital garden will serve as a repository that will grow and self-organize itself with time. There will be no subscription forms, so I don't feel pressured to cater to an audience. I'm excited to see how this will grow and evolve.
 
 You can find writings and curations in this garden here:
-- [[#musing]]
-- [[#curations]]
-- [[#affirmation]]
+- [musings](/tags/musings)
+- [curations](/tags/curations)
+- [affirmation](/tags/affirmation)
 
 Kelvin
 
