@@ -14,3 +14,6 @@ author: Kelvin Paschal
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Astra Magazine](https://astra-mag.com/)  (Discontinued)
 - [The Point Magazine](https://thepointmag.com/)
+- [The Believer](https://www.thebeliever.net/)
+- [n+1 Magazine](https://www.nplusonemag.com/)
+- [Quillette](https://quillette.com/)
