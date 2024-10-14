@@ -11,7 +11,7 @@ author: Kelvin Paschal
 	- https://worrydream.com/
 - **Dronme**
 	- https://substack.com/@dronme
-- **Richard L. Apodaca**
+- **Richard L. Apodaca** (Died June 2024)
 	- https://depth-first.com/
 - **Jacky Zhao**
 	- https://jzhao.xyz/
@@ -23,3 +23,5 @@ author: Kelvin Paschal
 	- https://blog.jtoy.net/
 - **Alex Kladov**
 	- https://matklad.github.io/
+- **Huyen Chip**
+	- https://huyenchip.com/blog/
