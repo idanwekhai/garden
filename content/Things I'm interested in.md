@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 ---
-Robotics ()
+Robotics 
 Society and culture (broadly)
 Optimization (Process and systems)
 Artificial intelligence (personalized AI)

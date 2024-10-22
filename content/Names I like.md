@@ -17,4 +17,7 @@ author: Kelvin Paschal
 - Safiya  
 - Nkiru  
 - Osaze  
-- Nnena
+- Nnena/Nneka
+- Emenike
+- Ifeoluwa
+- 
