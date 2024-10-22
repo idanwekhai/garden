@@ -5,6 +5,8 @@ tags:
   - curations
 author: Kelvin Paschal
 ---
+A collection of online magazines I frequent.
+
 - [Aeon](https://aeon.co)
 - [Psyche](https://psyche.co/)
 - [Isele Magazine](https://iselemagazine.com/)
