@@ -1,10 +1,12 @@
 ---
 title: Names I like
+author: Kelvin Paschal
 tags:
   - curations
-author: Kelvin Paschal
 ---
-- Amina 
+### Names that sound poetic to me (most Nigerian)
+
+ - Amina(t)
 - Ugonna  
 - Nzube  
 - Hafsat  
@@ -20,4 +22,5 @@ author: Kelvin Paschal
 - Nnena/Nneka
 - Emenike
 - Ifeoluwa
+- Renike
 - 
