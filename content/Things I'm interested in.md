@@ -4,6 +4,7 @@ date: 2024-10-18
 tags:
   - curations
 author: Kelvin Paschal
+draft: "true"
 ---
 - Robotics ()
 - Society and culture (broadly)
