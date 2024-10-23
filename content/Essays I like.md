@@ -1,6 +1,6 @@
 ---
 title: Essays I like
-date: 
+date: 2024-10-22
 tags:
   - curations
 ---
