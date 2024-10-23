@@ -4,13 +4,13 @@ date: 2024-10-18
 tags:
   - curations
 author: Kelvin Paschal
-draft: "true"
+draft: "false"
 ---
-- Robotics ()
+- Robotics
 - Society and culture (broadly)
 - Optimization (process and systems)
-- Artificial intelligence (personalized AI)
-- Software
+- Artificial intelligence (broadly)
+- Software (broadly)
 - Natural intelligence (intuition, memory, knowledge creation)
 - Neuroscience (episodic memory, connectome)
 - Psychology (groups, self-talk, templates)

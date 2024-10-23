@@ -35,3 +35,5 @@ author: Kelvin Paschal
 	- https://sebastianraschka.com/blog/
 - **Lilian Weng**
 	- https://lilianweng.github.io/
+- **[[Adaobi Adibe]]**
+	- https://substack.com/@organs

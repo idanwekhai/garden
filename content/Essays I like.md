@@ -4,7 +4,6 @@ date: 2024-10-22
 tags:
   - curations
 ---
-
 Essays I think are worth reading!
 
 - [Is life a complex computational process?](https://aeon.co/essays/is-life-a-complex-computational-process)
@@ -41,3 +40,18 @@ Essays I think are worth reading!
 	- Asa Seresin
 - [I Didn't Know What I Was in For](https://dronme.substack.com/p/i-didnt-know-what-i-was-in-for)
 	- Dronme
+- [Beware What Sounds Insightful](https://commoncog.com/beware-what-sounds-insightful/)
+	-  Cedric Chin
+- [Whataboutism, or the tu quoque gambit](https://hedgehogreview.com/issues/the-use-and-abuse-of-history/articles/whataboutism)
+	- B.D. McClay
+- [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
+	- Cate Hall
+- [In Praise of the Gods](https://map.simonsarris.com/p/in-praise-of-the-gods)
+	- Simon Sarris
+- [How to hate](https://aeon.co/essays/a-history-of-the-manifesto-as-a-document-of-hate-and-violence)
+	- Tyler Thier
+- [Why are Women Philosophers Often Erased from Collective Memory](https://aeon.co/essays/why-are-women-philosophers-often-erased-from-collective-memory)
+	- Ann-Sophie Barwich
+- [Goodhart's law, credentials and social order - Part 1](https://adaobi.substack.com/p/goodharts-law-signalling-and-social)
+- [Goodhart's law, credentials and social order - Part 2](https://adaobi.substack.com/p/goodharts-law-credentials-and-social)
+	- [[Adaobi Adibe]]

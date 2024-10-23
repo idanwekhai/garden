@@ -4,7 +4,7 @@ author: Kelvin Paschal
 tags:
   - curations
 ---
-### Names that sound poetic to me (most Nigerian)
+#### Names that sound poetic to me (mostly Nigerian)
 
  - Amina(t)
 - Ugonna  
