@@ -22,3 +22,4 @@ A collection of online magazines I frequent.
 - [The Hedgehog Review](https://hedgehogreview.com)
 - [The Atlantic](https://www.theatlantic.com/)
 - [The Paris Review](https://www.theparisreview.org/)
+- [The New Yorker](https://www.newyorker.com/)

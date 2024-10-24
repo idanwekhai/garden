@@ -1,0 +1,5 @@
+-
+- CRISPR barcoding refers to a technique that uses the CRISPR-Cas system to create unique, heritable changes in the DNA of individual cells or organisms that can be used to identify them. The CRISPR-Cas system is a powerful tool for genome editing that allows researchers to target specific genes and make precise changes to their DNA sequences.
+- In CRISPR barcoding, multiple guide RNAs (gRNAs) are designed to target different regions of the genome, each of which produces a unique DNA modification. By introducing these gRNAs into a population of cells or organisms, each individual will have a unique combination of DNA modifications, creating a "barcode" that can be used to identify them.
+- CRISPR barcoding has numerous applications, such as tracking the growth and spread of cancer cells, monitoring the development and behavior of individual cells in a tissue or organism, and tracking the spread of pathogens in a population. It is a promising technique for a wide range of research areas, from basic biology to clinical diagnostics.
+-

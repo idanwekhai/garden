@@ -55,3 +55,5 @@ Essays I think are worth reading!
 - [Goodhart's law, credentials and social order - Part 1](https://adaobi.substack.com/p/goodharts-law-signalling-and-social)
 - [Goodhart's law, credentials and social order - Part 2](https://adaobi.substack.com/p/goodharts-law-credentials-and-social)
 	- [[Adaobi Adibe]]
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+	- Maggie Appleton

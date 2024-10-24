@@ -37,3 +37,5 @@ author: Kelvin Paschal
 	- https://lilianweng.github.io/
 - **[[Adaobi Adibe]]**
 	- https://substack.com/@organs
+- Maggie Appletion
+	- https://maggieappleton.com/

@@ -17,3 +17,4 @@ draft: "false"
 - Social templates (gesturing, facial expressions, talking styles, comedy styles)
 - Pseudo-physical concepts (borders, nations, governments)
 - History (art, civilizations)
+- Architecture
