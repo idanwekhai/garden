@@ -4,6 +4,8 @@ date: 2024-10-22
 tags:
   - curations
 author: Kelvin Paschal
+pubdate: 2024-10-22
+lastmod: 2024-10-22
 ---
 - **Understanding Gaussians**
 	- https://gestalt.ink/gaussians
