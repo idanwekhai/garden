@@ -4,6 +4,8 @@ date: 2024-10-07
 tags:
   - musing
 author: Kelvin Paschal
+pubdate: 2024-10-07
+lastmod: 2024-10-07
 ---
 I always find it awkward when people say "We've lost the art of X," Where X is a seemingly good thing that functioned well in the past. Instances of this could be dating, hard work, romance etc.
 

@@ -2,6 +2,8 @@
 title: Welcome to Kelvin's Digital Garden
 date: 2024-08-09
 author: Kelvin Paschal
+pubdate: 2024-08-09
+lastmod: 2024-10-24
 ---
 Hi There,
 

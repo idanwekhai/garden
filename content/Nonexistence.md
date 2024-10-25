@@ -4,6 +4,8 @@ date: 2021-03-05
 tags:
   - musing
 author: Kelvin Paschal
+pubdate: 2021-03-05
+lastmod: 2021-03-05
 ---
 You didn't ask to exist, but now you exist and then you can't stand the thought of non-existence.  
   

@@ -4,6 +4,8 @@ date: 2024-10-23
 tags:
   - curations
 author: Kelvin Paschal
+pubdate: 2024-10-23
+lastmod: 2024-10-24
 ---
 - tête-à-tête
 	-  A heart to heart conversation.

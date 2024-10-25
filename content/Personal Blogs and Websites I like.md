@@ -3,6 +3,9 @@ title: Personal Blogs and Websites I like
 tags:
   - curations
 author: Kelvin Paschal
+date: 2024-10-08
+pubdate: 2024-10-08
+lastmod: 2024-10-24
 ---
 
 - **Femi Oyebode**

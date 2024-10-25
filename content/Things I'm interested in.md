@@ -5,6 +5,8 @@ tags:
   - curations
 author: Kelvin Paschal
 draft: "false"
+pubdate: 2024-09-18
+lastmod: 2024-10-22
 ---
 - Robotics
 - Society and culture (broadly)

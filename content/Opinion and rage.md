@@ -4,6 +4,8 @@ date: 2022-03-23
 tags:
   - musing
 author: Kelvin Paschal
+pubdate: 2022-03-23
+lastmod: 2022-03-23
 ---
 Growing up, I always observed people who stayed at newspaper stands to argue and cuss other people. "Why are they so mean to each other" was usually the question ringing in my mind.  
   

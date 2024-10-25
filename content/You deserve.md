@@ -4,6 +4,9 @@ date: 2021-07-10
 tags:
   - affirmation
 author: Kelvin Paschal
+pubdate: 2024-10-24
+lastmod: 2024-10-24
+draft: "true"
 ---
 You deserve kindness.
 

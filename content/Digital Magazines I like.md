@@ -4,6 +4,8 @@ date: 2024-10-07
 tags:
   - curations
 author: Kelvin Paschal
+pubdate: 2024-10-07
+lastmod: 2024-10-23
 ---
 A collection of online magazines I frequent.
 

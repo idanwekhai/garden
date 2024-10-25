@@ -3,6 +3,9 @@ title: Faith
 date: 2022-03-23
 tags:
   - musing
+author: Kelvin Paschal
+pubdate: 2022-03-23
+lastmod: 2024-10-08
 ---
 When I stayed in Abuja for a long time during the pandemic, it was compulsory to go to church after the lockdown laws were relaxed.
 

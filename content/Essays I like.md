@@ -3,6 +3,8 @@ title: Essays I like
 date: 2024-10-22
 tags:
   - curations
+pubdate: 2024-10-22
+lastmod: 2024-10-23
 ---
 Essays I think are worth reading!
 
