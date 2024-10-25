@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "garden.kelvinpaschal.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    displayDateType : ["created", "modified"],
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

@@ -30,7 +30,17 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        if (!cfg.displayDateType) {
+          throw new Error(
+            `Field 'displayDateType' was not set in the configuration objects of quartz.config.ts`
+          )
+        }
+
+        cfg.displayDateType.forEach((dateType) => {
+          let dateTypeLabel = (dateType === "created") ? 'Created:': 'Modified:';
+          segments.push(`${dateTypeLabel} ${formatDate(fileData.dates?.[dateType]!)}`)
+        })
+        // segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
       }
 
       // Display reading time if enabled
