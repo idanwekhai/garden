@@ -7,6 +7,9 @@ author: Kelvin Paschal
 pubdate: 2024-10-07
 lastmod: 2024-10-07
 ---
+> [!note]
+> Musings can contain typos, grammatical errors, rough ideas and weak arguments
+
 I always find it awkward when people say "We've lost the art of X," Where X is a seemingly good thing that functioned well in the past. Instances of this could be dating, hard work, romance etc.
 
 I find that these types of people think that something was "very good" in the past and we need to bring back whatever version of it existed back then. I think they're wrong and are naively talking about a very narrow or one sided picture of whatever romanticized version of X they're clinging to. 

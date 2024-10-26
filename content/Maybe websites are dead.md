@@ -7,6 +7,10 @@ author: Kelvin Paschal
 pubdate: 2024-10-24
 lastmod: 2024-10-24
 ---
+
+> [!note]
+> Musings can contain typos, grammatical errors, rough ideas and weak arguments
+
 I was hosting a couple of high school kids at the lab this summer and the conversation naturally geared toward what I do everyday. To talk about that, I had to first explain the concept of datasets and other related details like data-(mining, engineering, analysis etc.)
 
 I wanted to use an example they could all relate to, so I decided to talk about websites and the information they contain. My idea was the use this as a way to explain the process of gathering this information (data-mining) to form datasets that would eventually be analyzed or used to build predictive or generative models.

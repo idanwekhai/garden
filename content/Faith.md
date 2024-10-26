@@ -7,6 +7,10 @@ author: Kelvin Paschal
 pubdate: 2022-03-23
 lastmod: 2024-10-08
 ---
+
+> [!note]
+> Musings can contain typos, grammatical errors, rough ideas and weak arguments
+
 When I stayed in Abuja for a long time during the pandemic, it was compulsory to go to church after the lockdown laws were relaxed.
 
 There was a group of old people that never missed a service. They were consistent, and they prayed the loudest. Their "Amen" and "Hallelujah" were always the loudest when the pastor gave all those prophecies like "Your appointed time would soon come" or "Your divine helper would soon locate you."
