@@ -9,7 +9,7 @@ lastmod: 2024-10-24
 ---
 
 > [!note]
-> Musings can contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain typos, grammatical errors, rough ideas and weak arguments
 
 I was hosting a couple of high school kids at the lab this summer and the conversation naturally geared toward what I do everyday. To talk about that, I had to first explain the concept of datasets and other related details like data-(mining, engineering, analysis etc.)
 
