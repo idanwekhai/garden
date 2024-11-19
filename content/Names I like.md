@@ -16,7 +16,7 @@ lastmod: 2024-10-24
 - Toluwani  
 - Khadijat  
 - Haruna  
-- Chinonye  
+- Chinonye (Nonye)
 - Temilola/Temilade  
 - Ronke  
 - Safiya  
@@ -26,4 +26,5 @@ lastmod: 2024-10-24
 - Emenike
 - Ifeoluwa
 - Renike
+- Chidera
 - 

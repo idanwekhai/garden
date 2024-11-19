@@ -4,7 +4,7 @@ date: 2024-10-22
 tags:
   - curations
 pubdate: 2024-10-22
-lastmod: 2024-10-23
+lastmod: 2024-11-19
 ---
 Essays I think are worth reading!
 
@@ -59,3 +59,5 @@ Essays I think are worth reading!
 	- [[Adaobi Adibe]]
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 	- Maggie Appleton
+- [Stop Looking At Each Other](https://www.sherryning.com/p/stop-looking-at-each-other)
+	- Sherry Ning
