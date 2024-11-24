@@ -6,9 +6,9 @@ tags:
 author: Kelvin Paschal
 pubdate: 2024-11-21
 lastmod: 2024-11-21
-draft: "false"
 ---
 ## Tehching Hsieh
+
 - [Caged Piece (1978 - 1979)]([TEHCHING HSIEH | ONE YEAR PERFORMANCE 1978 - 1979](https://www.tehchinghsieh.net/oneyearperformance1978-1979))
 - [Time Clock Piece (1980 -1981)]([TEHCHING HSIEH | ONE YEAR PERFORMANCE 1980 - 1981](https://www.tehchinghsieh.net/oneyearperformance1980-1981))
 - [Outdoor Piece (1981 - 1982)]([TEHCHING HSIEH ONE YEAR PERFORMANCE 1981-1982](https://www.tehchinghsieh.net/oneyearperformance1981-1982))
