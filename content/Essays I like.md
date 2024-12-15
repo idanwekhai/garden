@@ -4,7 +4,7 @@ date: 2024-10-22
 tags:
   - curations
 pubdate: 2024-10-22
-lastmod: 2024-11-19
+lastmod: 2024-12-19
 ---
 Essays I think are worth reading!
 
@@ -61,3 +61,5 @@ Essays I think are worth reading!
 	- Maggie Appleton
 - [Stop Looking At Each Other](https://www.sherryning.com/p/stop-looking-at-each-other)
 	- Sherry Ning
+- [Meal for One | On what it means to nourish ourselves and others.](https://longreads.com/2023/06/20/meals-for-one-sharanya-deepak/)
+	- Sharanya Deepak
