@@ -3,13 +3,13 @@ title: Welcome to Kelvin's Digital Garden
 date: 2024-08-09
 author: Kelvin Paschal
 pubdate: 2024-08-09
-lastmod: 2024-10-24
+lastmod: 2024-12-26
 ---
 Hi There,
 
 Welcome to my digital garden.
 
-I started writing on the Internet in 2015, and managed a blog until 2022,  when I created a new [blog](https://kelvinpaschal.com/blog/). In 2015, I was primarily interested in sharing poems, what I was learning or everyday tech tools I was using. The decision to create a new blog was a step toward self-hosting and managing all my writing. As a result of sharing thoughts and essays there, I have gained a diverse set of subscribers. It has, however, come with a natural desire to please, or rather to perform for this audience. I find that what I want to share becomes restricted to my mental image of who might read it and how they might perceive it. Naturally, this restricts my freedom in what I share and how I write it.
+I started writing on the Internet in 2015, and managed a blog until 2022,  when I created a new [blog](https://kelvinpaschal.com/blog/). In 2015, I was primarily interested in sharing poems, things I was learning or everyday tech tools I was using. The decision to create a new blog was a step toward self-hosting and managing all my writing. As a result of sharing thoughts and essays there, I have gained a diverse set of subscribers. It has, however, come with a natural desire to please, or rather to perform for this audience. I find that what I want to share becomes restricted to my mental image of who might read it and how they might perceive it. Naturally, this restricts my freedom in what I share and how I write it.
 
 I've always faced a bit of internal conflict about what is worthy of being a blog post. I like to think that readers value their time, and I don't want to spam them with every single thought I think is "interesting." Outside of academia, most of what I write can either be classified as one of the following: journal entry, idea, thought/observation, documentation, technical article, essay, or  letter.
 
