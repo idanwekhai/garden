@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2024-12-26
-lastmod: 2024-12-26
+lastmod: 2024-12-27
 ---
 Couple of things I enjoy
 
@@ -15,10 +15,12 @@ Couple of things I enjoy
 - Good conversation
 - Bike paths
 - Digital gardens 
+- Hacker culture
 - Local cafes
 - Computing history
 - Accessible public spaces
-- Creative non-fiction
+- Creative non-fiction/ Essays
+- Digital curation and archives
 - Student-run orgs
 - Surrealism
 - Thoughtful design
