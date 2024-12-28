@@ -7,6 +7,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   const baseDir = pathToRoot(fileData.slug!)
   if (tags && tags.length > 0) {
     return (
+      <div style='width:85px'>
       <ul class={classNames(displayClass, "tags")}>
         {tags.map((tag) => {
           const linkDest = baseDir + `/tags/${slugTag(tag)}`
@@ -19,6 +20,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
           )
         })}
       </ul>
+      </div>
     )
   } else {
     return null
