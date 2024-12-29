@@ -4,7 +4,8 @@ date:
 tags: 
 author: Kelvin Paschal
 pubdate: 
-lastmod:
+lastmod: 
+publish: "false"
 ---
 
 > [!note]

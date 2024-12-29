@@ -18,4 +18,6 @@ Some talks I found enlightening
 - [Steve Balmer: CS50 Lecture 2014.](https://youtu.be/7lhlKF6MECs?si=OhJ0zp2U1m15mdDf)
 	- Steve was a guest speaker in the early CS50 lectures series that are taught by David J. Malan. I've forgotten what the main points of talk were, but I remember feeling very motivated and optimistic about creating technology.
 - [Hacker Interview - Gummo](https://youtu.be/g6igTJXcqvo?si=hSDdgHeINNa39mup)
-	- Gummo was an appearance on the Soft White Underbelly channel. He spoke about the old hacker culture and some other things like cryptocurrencies and bounties
+	- Gummo was an appearance on the Soft White Underbelly channel. He spoke about the old hacker culture and some other things like cryptocurrencies and bounties.
+- [You and Your Research: Richard Hamming](https://youtu.be/a1zDuOPkMSw?si=r1kS9IBG79pV4FdH)
+	- Hamming talks about his days in Bell labs and the various types of scientists he encountered. He touches on the personality traits and style of different researchers he worked with. Hamming also talks about how to approach problems.
