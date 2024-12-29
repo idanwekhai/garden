@@ -4,7 +4,7 @@ date: 2024-10-22
 tags:
   - curations
 pubdate: 2024-10-22
-lastmod: 2024-12-27
+lastmod: 2024-12-29
 ---
 Essays I think are worth reading!
 
@@ -65,3 +65,5 @@ Essays I think are worth reading!
 	- Sharanya Deepak
 - [Don't delegate understanding](https://stephango.com/understand)
 	- Steph Ango
+- [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
+	- Sean Goedecke
