@@ -4,5 +4,5 @@
 
 What I'm currently doing
 
-- # 12-30-2024
+- #### 12-30-2024
 	- Working on my first author paper and writing the LLM agent system for Nexus Botix.
