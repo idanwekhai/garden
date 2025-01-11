@@ -5,7 +5,7 @@
 What I'm currently doing
 
 
-- #### 10-10-2025
+- #### 10-01-2025
 	-  I'm currently working on something I'm calling "Yarnz". A standardized lexicon for Nigerian Pidgin
 	  
 - #### 30-12-2024
