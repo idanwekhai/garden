@@ -4,5 +4,9 @@
 
 What I'm currently doing
 
-- #### 12-30-2024
+
+- #### 10-10-2025
+	-  I'm currently working on something I'm calling "Yarnz". A standardized lexicon for Nigerian Pidgin
+	  
+- #### 30-12-2024
 	- Working on my first author paper and writing the LLM agent system for Nexus Botix.
