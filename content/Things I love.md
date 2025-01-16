@@ -1,12 +1,7 @@
 ---
-title: Things I love
-date: 2024-12-26
-tags:
-  - curations
-author: Kelvin Paschal
-pubdate: 2024-12-26
-lastmod: 2024-12-27
+{"title":"Things I love","date":"2024-12-26","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2024-12-26","lastmod":"2025-01-15","publish":true,"PassFrontmatter":true}
 ---
+
 Couple of things I enjoy
 
 - Hyperlocal software
@@ -19,11 +14,13 @@ Couple of things I enjoy
 - Local cafes
 - Computing history
 - Accessible public spaces
-- Creative non-fiction/ Essays
+- Creative non-fiction/essays
 - Digital curation and archives
 - Student-run orgs
 - Surrealism
 - Thoughtful design
 - Open architecture/source
-- Decentralized Tech 
+- Decentralized tech 
 - Museums and galleries 
+- Careless dancing
+- Dimly lit spaces
