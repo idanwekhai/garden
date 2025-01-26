@@ -1,12 +1,7 @@
 ---
-title: Names I like
-author: Kelvin Paschal
-tags:
-  - curations
-date: 2024-10-24
-pubdate: 2024-10-24
-lastmod: 2024-10-24
+{"title":"Names I like","author":"Kelvin Paschal","tags":["curations"],"date":"2024-10-24","pubdate":"2024-10-24","lastmod":"2024-12-25","publish":true,"PassFrontmatter":true}
 ---
+
 #### Names that sound poetic to me (mostly Nigerian)
 
  - Amina(t)
@@ -27,3 +22,4 @@ lastmod: 2024-10-24
 - Ifeoluwa
 - Renike
 - Chidera
+- Tinuke
