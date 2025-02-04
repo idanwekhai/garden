@@ -1,5 +1,5 @@
 ---
-{"title":"Other Digital Gardens","date":"2025-01-10","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2025-01-10","lastmod":"2025-01-10","publish":true,"PassFrontmatter":true}
+{"title":"Other Digital Gardens","date":"2025-01-10","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2025-01-10","lastmod":"2025-02-04","publish":true,"PassFrontmatter":true}
 ---
 
 Some digital gardens I love
@@ -25,3 +25,4 @@ Some digital gardens I love
 - https://ashleyblewer.com/
 - https://jzhao.xyz/
 - https://chsmc.org/
+- https://szymonkaliski.com/
