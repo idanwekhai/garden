@@ -1,5 +1,5 @@
 ---
-{"title":"Tools I Use","date":"2025-01-19","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2025-01-19","lastmod":"2025-02-08","publish":true,"draft":"true","PassFrontmatter":true}
+{"title":"Tools I Use","date":"2025-01-19","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2025-01-19","lastmod":"2025-02-08","publish":true,"PassFrontmatter":true}
 ---
 
 ## Podcasting
