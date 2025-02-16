@@ -1,5 +1,5 @@
 ---
-{"title":"Things people have said about my writing","date":"2025-02-15","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2025-02-15","lastmod":"2025-02-15","publish":true,"PassFrontmatter":true}
+{"title":"Writing feedback","date":"2025-02-15","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2025-02-15","lastmod":"2025-02-15","publish":true,"PassFrontmatter":true}
 ---
 
 Some things people have said about writing on my [blog](https://kelvinpaschal.com/blog).
