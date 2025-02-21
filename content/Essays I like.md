@@ -1,11 +1,7 @@
 ---
-title: Essays I like
-date: 2024-10-22
-tags:
-  - curations
-pubdate: 2024-10-22
-lastmod: 2024-12-29
+{"title":"Essays I like","date":"2024-10-22","tags":["curations"],"pubdate":"2024-10-22","lastmod":"2025-02-20","publish":true,"PassFrontmatter":true}
 ---
+
 Essays I think are worth reading!
 
 - [Is life a complex computational process?](https://aeon.co/essays/is-life-a-complex-computational-process)
@@ -15,7 +11,7 @@ Essays I think are worth reading!
 - [Passports and Power | Some travel for adventure, others for survival](https://thebaffler.com/latest/passports-and-power-zakaria)
 	- Rafia Zakaria
 - [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
-	- [[Andrej Karpathy]]
+	- [[seeds/Andrej Karpathy\|Andrej Karpathy]]
 - [Taste is a guide for what is worthwhile](https://jzhao.xyz/posts/aesthetics-and-taste)
 	- Jacky Zhao
 - [In Spite of All the Damage](https://dronme.substack.com/p/in-spite-of-all-the-damage)
@@ -56,7 +52,7 @@ Essays I think are worth reading!
 	- Ann-Sophie Barwich
 - [Goodhart's law, credentials and social order - Part 1](https://adaobi.substack.com/p/goodharts-law-signalling-and-social)
 - [Goodhart's law, credentials and social order - Part 2](https://adaobi.substack.com/p/goodharts-law-credentials-and-social)
-	- [[Adaobi Adibe]]
+	- [[seeds/Adaobi Adibe\|Adaobi Adibe]]
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 	- Maggie Appleton
 - [Stop Looking At Each Other](https://www.sherryning.com/p/stop-looking-at-each-other)
@@ -67,3 +63,5 @@ Essays I think are worth reading!
 	- Steph Ango
 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 	- Sean Goedecke
+- [How to be more agentic](https://open.substack.com/pub/usefulfictions/p/how-to-be-more-agentic) 
+	- Care Hall
