@@ -1,5 +1,5 @@
 ---
-{"title":"Essays I like","date":"2024-10-22","tags":["curations"],"pubdate":"2024-10-22","lastmod":"2025-02-20","publish":true,"PassFrontmatter":true}
+{"title":"Essays I like","date":"2024-10-22","tags":["curations"],"pubdate":"2024-10-22","lastmod":"2025-02-24","publish":true,"PassFrontmatter":true}
 ---
 
 Essays I think are worth reading!
@@ -65,3 +65,5 @@ Essays I think are worth reading!
 	- Sean Goedecke
 - [How to be more agentic](https://open.substack.com/pub/usefulfictions/p/how-to-be-more-agentic) 
 	- Care Hall
+- [Under the Mkone tree](https://aeon.co/essays/what-does-mental-health-mean-to-the-people-of-malindi)
+	- Priya Basil
