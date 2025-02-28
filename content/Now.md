@@ -5,7 +5,7 @@
 What I'm currently doing
 
 - #### 28-02-2025
-	-  More commitment towards my first author paper and a slow preparation for prospectus and meeting with my committee.
+	-  More commitment towards my first author paper and slow preparation for prospectus meeting with my committee.
 
 - #### 10-01-2025
 	-  I'm currently working on something I'm calling "Yarnz". A standardized lexicon for Nigerian Pidgin
