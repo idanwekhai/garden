@@ -1,15 +1,8 @@
 ---
-title: My Bucket List
-date: 2024-10-26
-tags:
-  - curations
-author: Kelvin Paschal
-pubdate: 2024-10-26
-lastmod: 2024-10-26
+{"title":"My Bucket List","date":"2024-10-26","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2024-10-26","lastmod":"2024-10-26","publish":true,"PassFrontmatter":true}
 ---
 
-- [ ] This is a completed task. 
-- [ ] This is an incomplete task.
+
 - [ ] Go sky diving in Tanzania
 - [ ] Read all the works of Haruki Murakami
 - [ ] Attend a Drake concert
@@ -20,4 +13,4 @@ lastmod: 2024-10-26
 - [ ] Visit the Large Hadron Collider (LHC)
 - [ ] Attend an EDM concert
 - [ ] Get a Ph.D.
-- [ ] Have a conversation with a nobel laureate
+- [ ] Have a conversation with a Nobel laureate
