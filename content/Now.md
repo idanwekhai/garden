@@ -4,6 +4,9 @@
 
 What I'm currently doing
 
+- #### 17-04-2025
+	-  I've been working full time on my first author paper and on Yarnz. Yarnz will soon be ready for public use. I'm currently reading Adichie's "Dream Count"
+
 - #### 28-02-2025
 	-  More commitment towards my first author paper and slow preparation for prospectus meeting with my committee.
 
