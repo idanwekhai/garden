@@ -1,5 +1,5 @@
 ---
-{"title":"Now","date":"2024-12-30","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2024-12-30","lastmod":"2025-02-28","publish":true,"PassFrontmatter":true}
+{"title":"Now","date":"2024-12-30","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2024-12-30","lastmod":"2025-04-17","publish":true,"PassFrontmatter":true}
 ---
 
 What I'm currently doing

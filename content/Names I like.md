@@ -1,5 +1,5 @@
 ---
-{"title":"Names I like","author":"Kelvin Paschal","tags":["curations"],"date":"2024-10-24","pubdate":"2024-10-24","lastmod":"2025-03-31","publish":true,"PassFrontmatter":true}
+{"title":"Names I like","author":"Kelvin Paschal","tags":["curations"],"date":"2024-10-24","pubdate":"2024-10-24","lastmod":"2025-04-17","publish":true,"PassFrontmatter":true}
 ---
 
 #### Names that sound poetic to me (mostly Nigerian)
