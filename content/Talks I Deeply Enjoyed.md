@@ -1,5 +1,5 @@
 ---
-{"title":"Talks I Deeply Enjoyed","date":"2024-10-27","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2024-10-27","lastmod":"2024-12-29","publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Talks I Deeply Enjoyed","tags":["curations"],"cssclasses":""}
 ---
 
 Some talks I found enlightening

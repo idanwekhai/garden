@@ -1,5 +1,5 @@
 ---
-{"title":"Things I love","date":"2024-12-26","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2024-12-26","lastmod":"2025-01-15","publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Things I love","tags":["curations"],"cssclasses":""}
 ---
 
 Couple of things I enjoy

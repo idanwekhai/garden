@@ -1,5 +1,5 @@
 ---
-{"title":"My Bucket List","date":"2024-10-26","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2024-10-26","lastmod":"2024-10-26","publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"My Bucket List","tags":["curations"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"Good TV Shows","date":"2025-01-20","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2025-01-20","lastmod":"2025-01-20","publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Good TV Shows","tags":["curations"],"cssclasses":""}
 ---
 
 Some TV shows I enjoyed watching

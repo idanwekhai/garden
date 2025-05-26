@@ -1,5 +1,5 @@
 ---
-{"title":"Technical to Social Translation","date":"2025-01-05","tags":["musing"],"author":"Kelvin Paschal","pubdate":"2025-01-10","lastmod":"2025-01-20","publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Technical to Social Translation","tags":["musing"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"Other Digital Gardens","date":"2025-01-10","tags":["curations"],"author":"Kelvin Paschal","pubdate":"2025-01-10","lastmod":"2025-02-04","publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Other Digital Gardens","tags":["curations"],"cssclasses":""}
 ---
 
 Some digital gardens I love

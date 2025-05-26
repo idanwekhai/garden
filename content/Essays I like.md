@@ -1,5 +1,5 @@
 ---
-{"title":"Essays I like","date":"2024-10-22","tags":["curations"],"pubdate":"2024-10-22","lastmod":"2025-04-06","publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Essays I like","tags":["curations"],"cssclasses":""}
 ---
 
 Essays I think are worth reading!

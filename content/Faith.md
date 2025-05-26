@@ -1,5 +1,5 @@
 ---
-{"title":"Faith","date":"2022-03-23","tags":["musing"],"author":"Kelvin Paschal","pubdate":"2022-03-23","lastmod":"2024-10-08","publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Faith","tags":["musing"],"cssclasses":""}
 ---
 
 
