@@ -68,10 +68,12 @@ Essays I think are worth reading!
 - [Under the Mkone tree](https://aeon.co/essays/what-does-mental-health-mean-to-the-people-of-malindi)
 	- Priya Basil
 - [all boredom is not created the same](https://maalvika.substack.com/p/all-boredom-is-not-created-the-same)
-	- Mallvika
+	- Maalvika
 - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
 	- Mariam Mahmoud
 - [being useful won't save you](https://pettyofcolor.substack.com/p/being-useful-wont-save-you)
 	- [JAZ](https://substack.com/@pettyofcolor)
 - [The death of the public intellectual](https://thedigitalmeadow.substack.com/p/the-death-of-the-public-intellectual)
 	- [Bea](https://substack.com/@moonlitmanor)
+- [why are we lying to young people about work?](https://maalvika.substack.com/p/why-are-we-lying-to-young-people)
+	- Maalvika
