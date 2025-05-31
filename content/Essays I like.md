@@ -4,7 +4,7 @@ date: 2024-10-22
 tags:
   - curations
 pubdate: 2024-10-22
-lastmod: 2024-12-29
+lastmod: 2025-05-31
 ---
 Essays I think are worth reading!
 
@@ -67,3 +67,17 @@ Essays I think are worth reading!
 	- Steph Ango
 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 	- Sean Goedecke
+- [How to be more agentic](https://open.substack.com/pub/usefulfictions/p/how-to-be-more-agentic) 
+	- Care Hall
+- [Under the Mkone tree](https://aeon.co/essays/what-does-mental-health-mean-to-the-people-of-malindi)
+	- Priya Basil
+- [all boredom is not created the same](https://maalvika.substack.com/p/all-boredom-is-not-created-the-same)
+	- Maalvika
+- [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
+	- Mariam Mahmoud
+- [being useful won't save you](https://pettyofcolor.substack.com/p/being-useful-wont-save-you)
+	- [JAZ](https://substack.com/@pettyofcolor)
+- [The death of the public intellectual](https://thedigitalmeadow.substack.com/p/the-death-of-the-public-intellectual)
+	- [Bea](https://substack.com/@moonlitmanor)
+- [why are we lying to young people about work?](https://maalvika.substack.com/p/why-are-we-lying-to-young-people)
+	- Maalvika

@@ -13,7 +13,7 @@ lastmod: 2024-10-08
 
 When I stayed in Abuja for a long time during the pandemic, it was compulsory to go to church after the lockdown laws were relaxed.
 
-There was a group of old people that never missed a service. They were consistent, and they prayed the loudest. Their "Amen" and "Hallelujah" were always the loudest when the pastor gave all those prophecies like "Your appointed time would soon come" or "Your divine helper would soon locate you."
+There were group of old people that never missed a service. They were consistent, and they prayed the loudest. Their "Amen" and "Hallelujah" were always the loudest when the pastor gave all those prophecies like "Your appointed time would soon come" or "Your divine helper would soon locate you."
 
 They seemed to have strong faith, but from my observation, they didn't look like they had much. You'd assume they were struggling financially, coupled with their weak knees and struggling backs.
 

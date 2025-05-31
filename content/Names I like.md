@@ -5,7 +5,7 @@ tags:
   - curations
 date: 2024-10-24
 pubdate: 2024-10-24
-lastmod: 2024-10-24
+lastmod: 2025-04-19
 ---
 #### Names that sound poetic to me (mostly Nigerian)
 
@@ -27,3 +27,7 @@ lastmod: 2024-10-24
 - Ifeoluwa
 - Renike
 - Chidera
+- Tinuke
+- Ifunanya
+- Onyedikachi
+- Barakat
