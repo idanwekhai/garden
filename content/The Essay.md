@@ -7,6 +7,7 @@ author: Kelvin Paschal
 pubdate: 2025-05-26
 lastmod: 2025-05-26
 ---
+
 - The essay as a form
 - The essay as a tool
 - The essay as a medium

@@ -7,6 +7,7 @@ author: Kelvin Paschal
 pubdate: 2025-02-15
 lastmod: 2025-02-15
 ---
+
 Some things people have said about writing on my [blog](https://kelvinpaschal.com/blog).
 
 ![](https://images.kelvinpaschal.com/Screenshot_20220926-121950~2.png)

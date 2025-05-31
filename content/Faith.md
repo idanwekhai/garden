@@ -1,12 +1,9 @@
 ---
 title: Faith
-date: 2022-03-23
 tags:
-  - musing
-author: Kelvin Paschal
-pubdate: 2022-03-23
-lastmod: 2024-10-08
+	- musings
 ---
+
 
 > [!note]
 > Musings may contain typos, grammatical errors, rough ideas and weak arguments

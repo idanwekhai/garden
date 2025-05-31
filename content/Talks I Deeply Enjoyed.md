@@ -8,6 +8,7 @@ pubdate: 2024-10-27
 lastmod: 2024-12-29
 publish: "true"
 ---
+
 Some talks I found enlightening
 
 - [Randy Pausch Last Lecture:  Really Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo?si=C4HnlK_4NRHostR0)

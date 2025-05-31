@@ -7,6 +7,7 @@ author: Kelvin Paschal
 pubdate: 2024-12-26
 lastmod: 2025-01-15
 ---
+
 Couple of things I enjoy
 
 - Hyperlocal software

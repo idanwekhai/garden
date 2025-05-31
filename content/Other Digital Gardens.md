@@ -7,8 +7,8 @@ author: Kelvin Paschal
 pubdate: 2025-01-10
 lastmod: 2025-02-04
 ---
-Some digital gardens I love
 
+Some digital gardens I love
 
 - https://simone.computer/#/
 - https://emile.space/

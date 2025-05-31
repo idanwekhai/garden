@@ -8,6 +8,7 @@ pubdate: 2024-12-30
 lastmod: 2025-04-17
 publish: "true"
 ---
+
 What I'm currently doing
 
 - #### 26-05-2025

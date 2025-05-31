@@ -1,11 +1,11 @@
 ---
-title: My Bucket List
-date: 2024-10-26
+title: Bucket list
+date: 2024-11-30
 tags:
   - curations
 author: Kelvin Paschal
-pubdate: 2024-10-26
-lastmod: 2024-10-26
+pubdate: 2024-11-30
+lastmod: 2024-11-30
 ---
 
 - [ ] Go sky diving in Tanzania
