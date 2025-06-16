@@ -1,16 +1,13 @@
 ---
-title: Now
-date: 2024-12-30
-tags:
-  - curations
-author: Kelvin Paschal
-pubdate: 2024-12-30
-lastmod: 2025-04-17
-publish: "true"
+{"publish":true,"title":"Now","tags":["curations"],"cssclasses":""}
 ---
+
 
 What I'm currently doing
 
+- #### 15-06-2025
+	- Been going to conferences. I've given three conference talks so far. I'm currently working on my new literary magazine.
+	
 - #### 26-05-2025
 	- It's been a busy time. I recently came back from a conference and I was able to do my committee meeting. Yarnz has been going strong and I've been publicizing and making it better.  I am currently reading "The vegetarian" by Han Kang.
 	  
