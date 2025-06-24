@@ -5,7 +5,7 @@ tags:
   - curations
 date: 2024-10-24
 pubdate: 2024-10-24
-lastmod: 2025-04-19
+lastmod: 2025-06-23
 ---
 
 #### Names that sound poetic to me (mostly Nigerian)
@@ -32,3 +32,4 @@ lastmod: 2025-04-19
 - Ifunanya
 - Onyedikachi
 - Barakat
+- Obiageli
