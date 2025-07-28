@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2024-12-26
-lastmod: 2025-01-15
+lastmod: 2025-07-28
 ---
 
 Couple of things I enjoy
@@ -30,3 +30,4 @@ Couple of things I enjoy
 - Museums and galleries 
 - Careless dancing
 - Dimly lit spaces
+- Magazines
