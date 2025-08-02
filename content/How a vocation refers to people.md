@@ -2,7 +2,7 @@
 title: How a vocation refers to people
 date: 2025-07-28
 tags:
-  - musings
+  - musing
 author: Kelvin Paschal
 pubdate: 2025-07-28
 lastmod: 2025-07-28

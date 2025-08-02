@@ -1,7 +1,7 @@
 ---
 title: Faith
 tags:
-  - musings
+  - musing
 date: 2024-06-30
 pubdate: 2024-06-30
 lastmod: 2024-06-30
