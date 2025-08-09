@@ -5,7 +5,7 @@ tags:
 author: Kelvin Paschal
 date: 2024-10-08
 pubdate: 2024-10-08
-lastmod: 2024-10-24
+lastmod: 2025-08-08
 ---
 
 - **Femi Oyebode**
@@ -42,3 +42,5 @@ lastmod: 2024-10-24
 	- https://substack.com/@organs
 - Maggie Appletion
 	- https://maggieappleton.com/
+- Jack Self
+	- https://jackself.com/
