@@ -44,7 +44,13 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
 
       function formatDate(date: Date, locale?: string): string {
-        return date ? date.toLocaleDateString(locale) : ""
+        return date
+          ? date.toLocaleDateString(locale, {
+              year: "numeric",
+              month: "short",
+              day: "2-digit",
+            })
+          : ""
       }
 
       // Display reading time if enabled
