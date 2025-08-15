@@ -1,4 +1,3 @@
-import { Date, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
@@ -42,6 +41,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           segments.push(`${dateTypeLabel} ${formatDate(fileData.dates?.[dateType as keyof typeof fileData.dates]!)}`)
         })
         // segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+      }
+
+      function formatDate(date: Date, locale?: string): string {
+        return date ? date.toLocaleDateString(locale) : ""
       }
 
       // Display reading time if enabled
