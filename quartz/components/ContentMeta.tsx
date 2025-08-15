@@ -37,7 +37,6 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
         cfg.displayDateType.forEach((dateType) => {
           const date = fileData.dates?.[dateType as keyof typeof fileData.dates]
-          // let dateTypeLabel = (dateType === "created") ? 'Created:': ' Modified:';
           if (date) {
             const dateTypeLabel = dateType === "created" ? "Created:" : "Modified:"
             segments.push(
@@ -46,8 +45,6 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
               </span>,
             )
           }
-          // segments.push(`${dateTypeLabel} ${formatDate(fileData.dates?.[dateType]!)}`)
-          // segments.push(`${dateTypeLabel} ${formatDate(fileData.dates?.[dateType as keyof typeof fileData.dates]!)}`)
           
         })
         // segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
@@ -69,7 +66,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(<span>&nbsp;&nbsp;&nbsp;{displayedTime}</span>)
+        segments.push(<span>&nbsp;{displayedTime}</span>)
       }
 
       return (
