@@ -5,8 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2024-10-27
-lastmod: 2024-12-29
-publish: "true"
+modified: 2024-12-29
 ---
 
 Some talks I found enlightening

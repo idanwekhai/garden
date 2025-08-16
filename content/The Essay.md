@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2025-05-26
-lastmod: 2025-05-26
+modified: 2025-05-26
 ---
 
 - The essay as a form

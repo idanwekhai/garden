@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2024-11-30
-lastmod: 2024-11-30
+modified: 2024-11-30
 ---
 
 - [ ] Go sky diving in Tanzania

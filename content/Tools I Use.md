@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2025-01-19
-lastmod: 2025-02-08
+modified: 2025-02-08
 ---
 
 ## Podcasting

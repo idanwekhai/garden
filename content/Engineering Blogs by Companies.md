@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2024-12-27
-lastmod: 2024-12-27
+modified: 2024-12-27
 ---
 - Netflix: https://netflixtechblog.com/
 - Uber

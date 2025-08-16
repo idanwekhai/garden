@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2024-09-18
-lastmod: 2024-12-26
+modified: 2024-12-26
 ---
 
 Non-exhaustive list of things I like to think and talk about.

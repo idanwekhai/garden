@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2024-12-26
-lastmod: 2025-07-28
+modified: 2025-07-28
 ---
 
 Couple of things I enjoy

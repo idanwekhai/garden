@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2025-02-15
-lastmod: 2025-02-15
+modified: 2025-02-15
 ---
 
 Some things people have said about writing on my [blog](https://kelvinpaschal.com/blog).

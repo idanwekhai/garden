@@ -4,7 +4,7 @@ date: 2024-10-22
 tags:
   - curations
 pubdate: 2024-10-22
-lastmod: 2025-05-31
+modified: 2025-05-31
 ---
 
 Essays I think are worth reading!

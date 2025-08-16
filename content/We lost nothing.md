@@ -5,7 +5,7 @@ tags:
   - musing
 author: Kelvin Paschal
 pubdate: 2024-10-07
-lastmod: 2024-10-07
+modified: 2024-10-07
 ---
 > [!note]
 > Musings may contain typos, grammatical errors, rough ideas and weak arguments

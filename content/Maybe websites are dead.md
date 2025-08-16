@@ -5,7 +5,7 @@ tags:
   - musing
 author: Kelvin Paschal
 pubdate: 2024-10-24
-lastmod: 2024-10-24
+modified: 2024-10-24
 ---
 
 > [!note]
