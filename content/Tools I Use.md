@@ -42,7 +42,7 @@ modified: 2025-08-17
 ## Webhosting
 - Namecheap: Hosting and domain provider
 - Hostinger: Hosting and domain provider
-- Cloudflare: Domainn & https provider, R2 object storage, caching
+- Cloudflare: Domain & https provider, R2 object storage, caching
 - Digital Ocean: Linux VM instance for dockerized services and apps
 ## Email
 - Gmail
