@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2024-10-07
-modified: 2024-10-23
+modified: 2025-05-24
 ---
 A collection of online magazines I frequent.
 
@@ -25,3 +25,4 @@ A collection of online magazines I frequent.
 - [The Atlantic](https://www.theatlantic.com/)
 - [The Paris Review](https://www.theparisreview.org/)
 - [The New Yorker](https://www.newyorker.com/)
+- [Asterisk Magazine](https://asteriskmag.com)

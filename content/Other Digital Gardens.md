@@ -31,3 +31,4 @@ Some digital gardens I love
 - https://jzhao.xyz/
 - https://chsmc.org/
 - https://szymonkaliski.com/
+- https://everythingi.love/
