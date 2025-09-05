@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2025-01-19
-modified: 2025-08-17
+modified: 2025-08-28
 ---
 
 ## Podcasting
@@ -24,7 +24,7 @@ modified: 2025-08-17
 ## Coding
 - VSCode: Data analysis, Web development, Writing software, Machine learning
 - Sublime text: Scripting
-- Colab: Prototyping, Quick experiments, Model training
+- Google Colab: Prototyping, Quick experiments, Model training
 -  Compute
 	- Lenovo Thinkpad
 	- Acer TUF
@@ -36,6 +36,7 @@ modified: 2025-08-17
 - Lastpass
 - Google password manager
 - Bitwarden
+- Proton Pass
 ## 3D
 - Modelling: Blender
 - Printing: AnyCubic Kobra 3
