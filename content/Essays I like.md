@@ -69,7 +69,7 @@ Essays I think are worth reading!
 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
 	- Sean Goedecke
 - [How to be more agentic](https://open.substack.com/pub/usefulfictions/p/how-to-be-more-agentic) 
-	- Care Hall
+	- Cate Hall
 - [Under the Mkone tree](https://aeon.co/essays/what-does-mental-health-mean-to-the-people-of-malindi)
 	- Priya Basil
 - [all boredom is not created the same](https://maalvika.substack.com/p/all-boredom-is-not-created-the-same)
