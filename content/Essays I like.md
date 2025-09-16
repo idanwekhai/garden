@@ -4,7 +4,7 @@ date: 2024-10-22
 tags:
   - curations
 pubdate: 2024-10-22
-modified: 2025-05-31
+modified: 2025-09-16
 ---
 
 Essays I think are worth reading!
@@ -82,3 +82,5 @@ Essays I think are worth reading!
 	- [Bea](https://substack.com/@moonlitmanor)
 - [why are we lying to young people about work?](https://maalvika.substack.com/p/why-are-we-lying-to-young-people)
 	- Maalvika
+- [Process knowledge is crucial to economic development](https://www.programmablemutter.com/p/process-knowledge-is-crucial-to-economic?ref=thebrowser.com)
+	- Henry Farrell
