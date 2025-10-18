@@ -11,8 +11,10 @@ modified: 2025-07-09
 
 What I'm currently doing
 
+- #### 17-10-2025
+	- Working on a software called BASIL (Bayesian Approach to Scientific Iteration and Learning). It's something we started this summer. Currently reading Human acts by Han Kang. I've not been finishing books lately. I didn't progress too much into White Teeth, but I picked up "The god of small thing" by Arundhati Roy. I read it until I got distracted by so much work!
 
-  - #### 09-07-2025
+- #### 09-07-2025
 	- Currently reading White Teeth by Zadie Smith and very long essays in the Drift magazine.
 	  
 - #### 15-06-2025
