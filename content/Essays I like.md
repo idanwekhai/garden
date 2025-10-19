@@ -4,7 +4,7 @@ date: 2024-10-22
 tags:
   - curations
 pubdate: 2024-10-22
-modified: 2025-09-16
+modified: 2025-10-19
 ---
 
 Essays I think are worth reading!
@@ -84,3 +84,5 @@ Essays I think are worth reading!
 	- Maalvika
 - [Process knowledge is crucial to economic development](https://www.programmablemutter.com/p/process-knowledge-is-crucial-to-economic?ref=thebrowser.com)
 	- Henry Farrell
+- [The Art of the Impersonal Essay](https://www.newyorker.com/magazine/2025/09/29/the-art-of-the-impersonal-essay)
+	- Zadie Smith
