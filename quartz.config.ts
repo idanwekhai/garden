@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "garden.kelvinpaschal.com",
-    ignorePatterns: ["private", "templates", ".obsidian", ".stversions],
+    ignorePatterns: ["private", "templates", ".obsidian", ".stversions"],
     defaultDateType: "created",
     displayDateType : ["created", "modified"],
     theme: {
