@@ -34,4 +34,4 @@ I've worked on a lot of collaborative projects, and I'm always on the hunt for n
 	- Having mutual respect & trust means that we value our collective contribution to a project. If we respect each other, it means we wouldn't make unilateral decisions that might not be best for everyone. I like to trust that collaborators will make the right decisions, this makes me feel comfortable and more focused on the project.
 
 9. **You know how to grind**
-    - A lot of success is achieved from trying, learning, failing, and then trying again. Every serious person knows this, and they're happy to do the work it takes. I like working with people who will do the work. I expect that you're someone who isn't demotivated by failure and will keep grinding on the problems that are important and interesting.
+    - A lot of success is achieved from trying, learning, failing, and then trying again. Every serious person knows this, and they're happy to do the work it takes. I like working with people who will do the work. I expect that you're someone who isn't demotivated by failure, and will keep grinding on the problems that are important and interesting.

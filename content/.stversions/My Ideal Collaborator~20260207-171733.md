@@ -22,7 +22,7 @@ I've worked on a lot of collaborative projects, and I'm always on the hunt for n
 	- This is a bit related to the third point, but a good collaborator should also be able to work independently. While working together is great, you should be able to hold you own end. We should be peers, and not necessarily mentor-mentee.
 
 5. **You keep your word**
-	- I don't like it when people say they'll do something and they don't. I also don't appreciate people who agree on a deadline and then default. It's okay if life happens, but a repeated pattern of inconsistency and being unreliable makes you hard to work with. Working with people who keep their word makes me less calculative, since I don't have to always think of a backup plan. People who don't keep their word can derail projects.
+	- I don't like it when people say they'll do something and they don't. I also don't appreciate people who agree on a deadline and then default. It's okay if life happens, but a repeated pattern of inconsistency makes you hard to work with. Working with people who keep their word makes me less calculative, since I don't have to always think of a backup plan. People who don't keep their word can derail projects.
 
 6. **You value your craft** 
 	- I love working with people who are serious about what they do. You see the importance of your work and you value the process of doing it. These types of people have strong opinions about their work and the tools they use. They are the people I can learn a lot from.
@@ -34,4 +34,4 @@ I've worked on a lot of collaborative projects, and I'm always on the hunt for n
 	- Having mutual respect & trust means that we value our collective contribution to a project. If we respect each other, it means we wouldn't make unilateral decisions that might not be best for everyone. I like to trust that collaborators will make the right decisions, this makes me feel comfortable and more focused on the project.
 
 9. **You know how to grind**
-    - A lot of success is achieved from trying, learning, failing, and then trying again. Every serious person knows this, and they're happy to do the work it takes. I like working with people who will do the work. I expect that you're someone who isn't demotivated by failure and will keep grinding on the problems that are important and interesting.
+    - A lot of success is achieved from trying, learning, failing, and then trying again. Every serious person knows this, and they're happy to do the work it takes. I like working with people who will do the work. I expect that you're someone who isn't demotivated by failure, and will keep grinding on the problems that are important and interesting.
