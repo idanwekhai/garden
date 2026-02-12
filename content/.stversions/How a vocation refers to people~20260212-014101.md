@@ -17,13 +17,13 @@ I've been trying to note how certain vocations use a different terminology for t
 | Vocation               | Refer to people as... | Example                                       |
 | ---------------------- | --------------------- | --------------------------------------------- |
 | Salesperson            | Account               | I have a close relationship with that account |
-| Health Practitioner    | Patient               | The patient would come in today               |
+| Health Practiotioner   | Patient               | The patient would come in today               |
 | Consultant             | Client                | I met up with the client today                |
 | Waiter/Waitress        | Party                 | We're expecting a party of 1 at noon          |
 | Teacher                | Students              | My students are here now                      |
 | Lawyer                 | Client                | They're a high profile client of mine         |
 | Therapist              | Client/Pateint        | They're a vulnerable client                   |
-| Tech Support           | User                  | The user didn't click a button                |
+| Tech Support           | User                  | The user didn't clink a button                |
 | Project Manager        | Stakeholder           | We'll present to the stakeholders             |
 | Customer Service Agent | Customer              | The customer wasn't happy                     |
 | Marketer               | Audience              | The audience didn't like it too much          |

@@ -23,7 +23,7 @@ I've been trying to note how certain vocations use a different terminology for t
 | Teacher                | Students              | My students are here now                      |
 | Lawyer                 | Client                | They're a high profile client of mine         |
 | Therapist              | Client/Pateint        | They're a vulnerable client                   |
-| Tech Support           | User                  | The user didn't click a button                |
+| Tech Support           | User                  | The user didn't clink a button                |
 | Project Manager        | Stakeholder           | We'll present to the stakeholders             |
 | Customer Service Agent | Customer              | The customer wasn't happy                     |
 | Marketer               | Audience              | The audience didn't like it too much          |
