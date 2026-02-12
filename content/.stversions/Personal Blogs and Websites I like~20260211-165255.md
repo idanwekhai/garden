@@ -5,7 +5,7 @@ tags:
 author: Kelvin Paschal
 date: 2024-10-08
 pubdate: 2024-10-08
-modified: 2026-02-11
+modified: 2025-08-08
 ---
 
 - **Femi Oyebode**
@@ -44,5 +44,3 @@ modified: 2026-02-11
 	- https://maggieappleton.com/
 - Jack Self
 	- https://jackself.com/
-- JA Westernberg
-	- https://www.joanwestenberg.com/
