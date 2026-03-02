@@ -15,10 +15,9 @@ I'm a forcing function for the things I want to see in the world. If no one else
 
 I will not try hard to convince anyone on why they should exist.
 
-I will run the ends of the earth. 
-I will raise funds. 
-I will stay up late. 
+I will run to the ends of the earth. 
 I will negotiate. 
-I will marshal people.
+I will find the funds.
+I will find the best people to work with.
 I will master new tools and learn new skills. 
 Come fire or high water, I will ship.
