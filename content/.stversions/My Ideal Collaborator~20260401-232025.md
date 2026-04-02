@@ -27,7 +27,7 @@ I've worked on a lot of collaborative projects, and I'm always on the hunt for n
 6. **You value your craft** 
 	- I love working with people who are serious about what they do. You see the importance of your work and you value the process of doing it. These types of people have strong opinions about their work and the tools they use. They are the people I can learn a lot from.
 
-7. **You care** ^750477
+7. **You care**
 	- Care is relevant. The work we do is an attempt at making our lives and people around us better. To see the importance of your work and the larger role it plays, you have to care.
 
 8. **We have mutual trust and respect**

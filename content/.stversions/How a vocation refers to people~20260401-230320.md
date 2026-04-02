@@ -11,6 +11,7 @@ modified: 2025-08-02
 > [!note]
 > Musings may contain typos, grammatical errors, rough ideas and weak arguments
 
+
 I've been trying to note how certain vocations use a different terminology for the people they provide service for.
 
 | Vocation               | Refer to people as... | Example                                       |
@@ -21,7 +22,7 @@ I've been trying to note how certain vocations use a different terminology for t
 | Waiter/Waitress        | Party                 | We're expecting a party of 2 at noon          |
 | Teacher                | Students              | My students are here now                      |
 | Lawyer                 | Client                | They're a high profile client of mine         |
-| Therapist              | Client/Patient        | They're a vulnerable client                   |
+| Therapist              | Client/Pateint        | They're a vulnerable client                   |
 | Tech Support           | User                  | The user didn't click a button                |
 | Project Manager        | Stakeholder           | We'll present to the stakeholders             |
 | Customer Service Agent | Customer              | The customer wasn't happy                     |
