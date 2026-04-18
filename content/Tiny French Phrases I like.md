@@ -5,7 +5,7 @@ tags:
   - curations
 author: Kelvin Paschal
 pubdate: 2024-10-23
-modified: 2024-10-24
+modified: 2026-04-04
 ---
 - tête-à-tête
 	-  A heart to heart conversation.
@@ -23,3 +23,5 @@ modified: 2024-10-24
 	- The call of the void
 - Raison d’être
 	- Reason to be 
+-  J'ai lu ça quelque part
+	- I read that somewhere 
