@@ -20,5 +20,3 @@ Some lessons learned from collaborating with individuals or teams.
 - If they can't brainstorm with you, they shouldn't be working with you.
 - People who value speed are golden and rare.
 - If you always have to tell someone what to do, that might be a problem.
-- Lots of important details get lost in translation. Everyone should attempt to learn each others domain language.
-- A lot of time might be spent translating ideas. This is simply a cost of doing business.
