@@ -8,7 +8,7 @@ pubdate: 2024-10-07
 modified: 2024-10-07
 ---
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 I always find it awkward when people say "We've lost the art of X," Where X is a seemingly good thing that functioned well in the past. Instances of this could be dating, hard work, romance etc.
 

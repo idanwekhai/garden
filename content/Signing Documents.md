@@ -9,7 +9,7 @@ modified: 2024-10-25
 ---
 
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 Recently, I've been in to positions where I have to sign documents that actually require me to read them. Just to save time, I use a *trick* to lessen my reading-burden.
 

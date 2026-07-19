@@ -9,7 +9,7 @@ modified: 2021-03-05
 ---
 
 > [!note]
-> Musings can contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 You didn't ask to exist, but now you exist and then you can't stand the thought of non-existence.  
   

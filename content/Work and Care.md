@@ -9,7 +9,7 @@ modified: 2026-04-01
 ---
 
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 > 
 
 One of the problems I ran into while I still freelancing fulltime was finding people to outsource work to. Back then, I had my hands full with client work, prompting the urge to seek out people who I could either split responsibility with or outsource to. 

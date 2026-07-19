@@ -9,7 +9,7 @@ modified: 2024-06-30
 
 
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 When I stayed in Abuja for a long time during the pandemic, it was compulsory to go to church after the lockdown laws were relaxed.
 

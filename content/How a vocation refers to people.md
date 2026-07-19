@@ -9,7 +9,7 @@ modified: 2025-08-02
 ---
 
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 I've been trying to note how certain vocations use a different terminology for the people they provide service for.
 

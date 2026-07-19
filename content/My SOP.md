@@ -9,7 +9,7 @@ modified: 2026-03-01
 ---
 
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 I'm a forcing function for the things I want to see in the world. If no one else will create them, I will.
 

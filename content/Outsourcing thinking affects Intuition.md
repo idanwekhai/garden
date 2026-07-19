@@ -9,7 +9,7 @@ modified: 2026-01-15
 ---
 
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 The thing we lose when we outsource our thinking is good intuition. Good intuition can only be gained by struggling through a problem or dilemma. The path to a solving a problem is often non-linear and filled with obstacles that provide more information/context about said problem. Sometimes, it could even be unrelated information that becomes relevant later. 
 

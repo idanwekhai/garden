@@ -8,7 +8,7 @@ pubdate: 2022-12-23
 modified: 2022-12-23
 ---
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 I'm thinking about all the public toilets I've ever been in and how most of them had little scribblings on the wall of people's names. Some were an effort to be remembered, "Emeka was here" while some were a way to tell what they deeply felt, such as "I love Julia".  
   

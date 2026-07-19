@@ -9,7 +9,7 @@ modified: 2026-07-19
 ---
 
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 I've learned to be careful with how I approach systems. I lean towards a revolutionary/transformist thinking, that is, I am the type of person who wants to scrap an entire system and rebuild it from scratch.
 

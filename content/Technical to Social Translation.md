@@ -9,7 +9,7 @@ modified: 2025-01-20
 ---
 
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 
 It's interesting how the interpretation of the word "Algorithm" has evolved to have a social meaning.

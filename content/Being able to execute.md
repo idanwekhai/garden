@@ -9,7 +9,7 @@ modified: 2025-10-18
 ---
 
 > [!note]
-> Musings may contain typos, grammatical errors, rough ideas and weak arguments
+> Musings may contain errors and weak arguments
 
 Perhaps one day I would not be able to execute my ideas because of health reasons or whatever else life throws. This is why everyday is a gift and an opportunity to execute.
 
