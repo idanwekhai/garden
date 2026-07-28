@@ -1,5 +1,5 @@
 ---
-title: Open Access Museum Images
+title: Open Access Images
 date: 2025-11-08
 tags:
   - curations
@@ -7,7 +7,7 @@ author: Kelvin Paschal
 pubdate: 2025-11-08
 modified: 2025-11-09
 ---
-Where to find open-access images from museums
+Museums and Institutions that offer open-access images
 
 - [Smithsonian](https://www.si.edu/openaccess)
 - [Art Institute of Chicago](https://www.artic.edu/open-access/open-access-images)

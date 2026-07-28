@@ -7,7 +7,7 @@ author: Kelvin Paschal
 pubdate: 2022-03-23
 modified: 2022-03-23
 ---
-Growing up, I always observed people who stayed at newspaper stands to argue and cuss other people. "Why are they so mean to each other" was usually the question ringing in my mind.  
+Growing up, I always observed people who stayed at newspaper stands to argue and cuss other people. "Why are they so mean to each other," was usually the question ringing in my mind.  
   
 Now I get it. Twitter made me understand. You easily get enraged when you constantly read opinion. It's worse now because more opinions are in your face every second, and it's really the ones you disagree with.  
   
