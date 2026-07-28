@@ -5,10 +5,9 @@ tags:
   - curations
 date: 2024-10-24
 pubdate: 2024-10-24
-modified: 2025-06-23
+modified: 2026-07-21
 ---
-
-#### Names that sound poetic to me (mostly Nigerian)
+## Names that sound poetic to me (list contains predominantly Nigerian names)
 
  - Amina(t)
 - Ugonna  
@@ -33,3 +32,4 @@ modified: 2025-06-23
 - Onyedikachi
 - Barakat
 - Obiageli
+- Keyede
