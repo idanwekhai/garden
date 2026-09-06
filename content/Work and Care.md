@@ -14,6 +14,6 @@ modified: 2026-04-01
 
 One of the problems I ran into while I still freelancing fulltime was finding people to outsource work to. Back then, I had my hands full with client work, prompting the urge to seek out people who I could either split responsibility with or outsource to. 
 
-The major concern I had was that they wouldn't do the work up to the standard or level of precision I was aiming for. I could teach them to use the tools, but I could not effectively teach them how to be creative in their approach. 
+The major concern I had was that they wouldn't do the work up to the standard or level of precision I was aiming for. I could teach them to use the tools, but I could not effectively teach them how to be creative in their approach.  ^a8ef0f
 
-I found that the problem of teaching creativity wasn't what I should have been worried about.  I should have been focused on finding people that gave a damn  When it comes it doing great work, almost everything is downstream of care.  You can teach tools, but you can't teach someone to care. [[My Ideal Collaborator#^750477 | People that care value their craft and it's output]]. They don't stop at the first effort, and will iterate until their output is up to taste.
+I found that the problem of teaching creativity wasn't what I should have been worried about.  I should have been focused on finding people that gave a damn  When it comes it doing great work, almost everything is downstream of care.  You can teach tools, but you can't teach someone to care. [[My Ideal Collaborator#^750477 | People that care value their craft and it's output]]. They don't stop at the first effort, and will iterate until their output is up to taste. ^0c9099
